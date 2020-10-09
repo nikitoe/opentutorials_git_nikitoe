@@ -1,6 +1,6 @@
 <html>
 	<head>내용 추가</head>
-	<title>git</title>
+	<title>git 추가</title>
 	<body>
 		<header>
 		</header>
