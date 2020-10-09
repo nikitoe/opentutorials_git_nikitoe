@@ -1,6 +1,5 @@
 <html>
-	<head>
-	</head>
+	<head>내용 추가</head>
 	<body>
 	</body>
 </html>
