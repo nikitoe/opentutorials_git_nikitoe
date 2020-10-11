@@ -17,7 +17,7 @@
 			<li>pull</li>
 			<li>push simjy</li>
 			<li>pull rachel</li>
-			<li>conflict simjy</li>
+			<li>conflict simjy.rechel</li>
 		</ul>
 	</body>
 </html>
