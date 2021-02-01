@@ -18,6 +18,7 @@
 			<li>push simjy</li>
 			<li>pull rachel</li>
 			<li>conflict simjy.rechel</li>
+			<li>수정할게</li>
 		</ul>
 	</body>
 </html>
